@@ -5,8 +5,8 @@
 
 int main()
 {
-    int value = 6 + 2;
-    std::cout << "Hello my darling!\n";
+   
+    std::cout << "Hello my love!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
